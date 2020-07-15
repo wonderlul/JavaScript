@@ -1,0 +1,1 @@
+Collection of „few” tasks, that I’ve done during my Postgraduate Studies (JavaScript Developer) at Politechnika Bialostocka in Bialystok. Each chapter (folder) includes individual ReadMe describing the tasks.
